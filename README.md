@@ -1,9 +1,13 @@
 # 💫About Me :
 🍎 About to Graduate with a BA in Political Science.
+
 🐍 Currently Taking my Python programming skills to the ☁'s
+
 ⚡ I'm Currently working towards becoming a Data Analyst.
+
 ⛵ Sail the seven sea's and while your at it, keep exploring my
 GitHub profile.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dean-lour-78755833b/) 
