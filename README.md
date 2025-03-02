@@ -13,7 +13,7 @@ GitHub profile.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dean-lour-78755833b/) 
 
 # 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![GIT](![1color-orange-lightbg@2x](https://github.com/user-attachments/assets/801fb37f-7a69-4709-99bf-a25463b27452)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![GIT](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
 )
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SouDLour&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
