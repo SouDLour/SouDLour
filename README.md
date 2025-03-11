@@ -1,5 +1,5 @@
 # 💫About Me :
-🍎 About to Graduate with a BA in Political Science.
+🍎 Graduating with BA in Political Science 05/25.
 
 🐍 Currently Taking my Python programming skills to the ☁'s
 
